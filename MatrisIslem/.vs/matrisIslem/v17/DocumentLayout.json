@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Yigit Can\\source\\repos\\matrisIslem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7AF928-38DA-42C1-8E60-63FA468031B3}|matrisIslem\\matrisIslem.csproj|c:\\users\\yigit can\\source\\repos\\matrisislem\\matrisislem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7AF928-38DA-42C1-8E60-63FA468031B3}|matrisIslem\\matrisIslem.csproj|solutionrelative:matrisislem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Yigit Can\\source\\repos\\matrisIslem\\matrisIslem\\Program.cs",
+              "RelativeDocumentMoniker": "matrisIslem\\Program.cs",
+              "ToolTip": "C:\\Users\\Yigit Can\\source\\repos\\matrisIslem\\matrisIslem\\Program.cs",
+              "RelativeToolTip": "matrisIslem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T10:00:24.022Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

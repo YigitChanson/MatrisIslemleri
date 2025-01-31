@@ -1,0 +1,14 @@
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\bin\Debug\net8.0\matrisIslem.exe
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\bin\Debug\net8.0\matrisIslem.deps.json
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\bin\Debug\net8.0\matrisIslem.runtimeconfig.json
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\bin\Debug\net8.0\matrisIslem.dll
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\bin\Debug\net8.0\matrisIslem.pdb
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\matrisIslem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\matrisIslem.AssemblyInfoInputs.cache
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\matrisIslem.AssemblyInfo.cs
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\matrisIslem.csproj.CoreCompileInputs.cache
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\matrisIslem.dll
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\refint\matrisIslem.dll
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\matrisIslem.pdb
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\matrisIslem.genruntimeconfig.cache
+C:\Users\Yigit Can\source\repos\matrisIslem\matrisIslem\obj\Debug\net8.0\ref\matrisIslem.dll
